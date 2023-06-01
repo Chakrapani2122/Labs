@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<EmployeeDetail>
+    <Employee>
+        <Emp_id>E-001</Emp_id>
+        <Emp_Name>revathy</Emp_Name>
+        <Emp_E-mail>revathy@yahoo.com</Emp_E-mail>
+    </Employee>
+    <Employee>
+        <Emp_id>E-002</Emp_id>
+        <Emp_Name>vinod</Emp_Name>
+        <Emp_E-mail>vinod2@yahoo.com</Emp_E-mail>
+    </Employee>
+    <Employee>
+        <Emp_id>E-001</Emp_id>
+        <Emp_Name>deepak</Emp_Name>
+        <Emp_E-mail>deepak3@yahoo.com</Emp_E-mail>
+    </Employee>
+</EmployeeDetail>
