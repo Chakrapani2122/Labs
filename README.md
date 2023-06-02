@@ -1,9 +1,10 @@
 # Labs
+
 III-II Lab programs
 
 ## Web Technologies Lab
 
-### Objectives:
+### Objectives
 
 To enable the student to program web applications using the following technologies HTML ,
 Javascript ,AJAX ,PHP , Tomcat Server, Servlets ,JSP
@@ -20,21 +21,21 @@ I. Install the following on the local machine Apache Web Server (if not installe
 
 • MySQL (if not already configured)
 
-2. Write an HTML page including any required Javascript that takes a number from one text field in
+2.Write an HTML page including any required Javascript that takes a number from one text field in
 the range of 0 to 999 and shows it in another text field in words. If the number is out of range, it
 should show "out of range" and if it is not a number, it should show "not a number" message in the
 result box.
 
-3. Write an HTML page that has one input, which can take multi-line text and a submit button. Once
+3.Write an HTML page that has one input, which can take multi-line text and a submit button. Once
 the user clicks the submit button, it should show the number of characters, words and lines in the
 text entered using an alert message. Words are separated with white space and lines are separated
 with new line character.
 
-4. Write an HTML page that contains a selection box with a list of 5 countries. When the user selects a
+4.Write an HTML page that contains a selection box with a list of 5 countries. When the user selects a
 country, its capital should be printed next to the list. Add CSS to customize the properties of the font of the
 capital (color, bold and font size).
 
-5. Create an XML document that contains 10 users information. Write a Java program, which takes
+5.Create an XML document that contains 10 users information. Write a Java program, which takes
 User ld as input and returns the user details by taking the user information from the XML document
 using
 
@@ -42,7 +43,7 @@ using
 
 (b) SAX parser
 
-6. Implement the following web applications using
+6.Implement the following web applications using
 
 (a) PHP,
 
@@ -60,9 +61,9 @@ i) A user validation web application, where user submits the login name and pass
 
 (v) modify the above program such that it stores each query in a database and checks the database first for the result .if the query is already available in the database, it returns the value that was previously computed or it computes the result and returns it after storing the new query and result in database.
 
-(vi) A web application takes a name as input and on submit it shows a hello<name> page where <name> is taken from the request and it shows a start time at the right top corner of the page and provides the logout button on clicking this button it should shoe a logout page with thank you<name> message with the duration of Usage.
+(vi) A web application takes a name as input and on submit it shows a hello name page where  name is taken from the request and it shows a start time at the right top corner of the page and provides the logout button on clicking this button it should shoe a logout page with thank you name message with the duration of Usage.
 
-(vii). A web application that takes name and age from an html page. If the age is less than 18, it should send a page with “hello <name>, you are not authorized to visit this site” message where <name> should be replaced with the entered name.  Otherwise it should send “welcome <name> to this site” message.
+(vii). A web application that takes name and age from an html page. If the age is less than 18, it should send a page with “hello name, you are not authorized to visit this site” message where name should be replaced with the entered name.  Otherwise it should send “welcome name to this site” message.
 
 (viii). A web application for implementation:
 
@@ -85,7 +86,7 @@ Course objectives: This course will enable students to
 2. Implement the machine learning concepts and algorithms in any suitable language of
 choice.
 
-### Description :
+### Description
 
 1. The programs can be implemented in either JAVA or Python.
 
@@ -94,9 +95,9 @@ or APIs of Java/Python.
 
 3. Data sets can be taken from standard repositories
 
-(https://archive.ics.uci.edu/ml/datasets.html) or constructed by the students.
+(<https://archive.ics.uci.edu/ml/datasets.html>) or constructed by the students.
 
-### Lab Experiments:
+### Lab Experiments
 
 1. Implement and demonstrate the FIND-S algorithm for finding the most specific hypothesis based
 on a given set of training data samples. Read the training data from a CSV file.
