@@ -140,7 +140,7 @@ points. Select appropriate data set for your experiment and draw graphs
 ## Deep Learning Lab
 
 
-Course Objectives:
+### Course Objectives:
 
 1. To Build the Foundation of Deep Learning.
 
@@ -148,7 +148,7 @@ Course Objectives:
 
 3. To enable students to develop successful machine learning concepts.
 
-Course Outcomes:
+### Course Outcomes:
 
 1. Upon the Successful Completion of the Course, the Students would be able to:
 
@@ -158,7 +158,7 @@ Course Outcomes:
 
 4. Implement Deep Learning Algorithms and Solve Real-world problems.
 
-LIST OF EXPERIMENTS:
+### LIST OF EXPERIMENTS:
 
 1. Setting up the Spyder IDE Environment and Executing a Python Program
 
@@ -176,7 +176,7 @@ LIST OF EXPERIMENTS:
 
 8. Applying Generative Adversial Networks for image generation and unsupervised tasks.
 
-TEXT BOOKS:
+### TEXT BOOKS:
 
 1. Deep Learning by Ian Goodfellow, Yoshua Bengio and Aaron Courville, MIT Press.
 
@@ -184,7 +184,7 @@ TEXT BOOKS:
 
 3. Probabilistic Graphical Models. Koller, and N. Friedman, MIT Press.
 
-REFERENCES:
+### REFERENCES:
 
 1. Bishop, C.M., Pattern Recognition and Machine Learning, Springer, 2006.
 
@@ -194,7 +194,7 @@ REFERENCES:
 
 4. Satish Kumar, Neural Networks: A Classroom Approach, Tata McGraw Hill Education, 2004.
 
-EXTENSIVE READING:
+### EXTENSIVE READING:
 
 1. http://www.deeplearning.net
 
