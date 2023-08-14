@@ -1,6 +1,5 @@
 # Labs
-
-III-II Lab programs
+ Lab programs
 
 ## Web Technologies Lab
 
@@ -135,3 +134,75 @@ problem.
 
 10. Implement the non-parametric Locally Weighted Regression algorithm in order to fit data
 points. Select appropriate data set for your experiment and draw graphs
+
+
+
+## Deep Learning Lab
+
+
+Course Objectives:
+
+1. To Build the Foundation of Deep Learning.
+
+2. To Understand How to Build the Neural Network.
+
+3. To enable students to develop successful machine learning concepts.
+
+Course Outcomes:
+
+1. Upon the Successful Completion of the Course, the Students would be able to:
+
+2. Learn the Fundamental Principles of Deep Learning.
+
+3. Identify the Deep Learning Algorithms for Various Types of Learning Tasks in various domains.
+
+4. Implement Deep Learning Algorithms and Solve Real-world problems.
+
+LIST OF EXPERIMENTS:
+
+1. Setting up the Spyder IDE Environment and Executing a Python Program
+
+2. Installing Keras, Tensorflow and Pytorch libraries and making use of them
+
+3. Applying the Convolution Neural Network on computer vision problems
+
+4. Image classification on MNIST dataset (CNN model with Fully connected layer)
+
+5. Applying the Deep Learning Models in the field of Natural Language Processing
+
+6. Train a sentiment analysis model on IMDB dataset, use RNN layers with LSTM/GRU notes
+
+7. Applying the Autoencoder algorithms for encoding the real-world data
+
+8. Applying Generative Adversial Networks for image generation and unsupervised tasks.
+
+TEXT BOOKS:
+
+1. Deep Learning by Ian Goodfellow, Yoshua Bengio and Aaron Courville, MIT Press.
+
+2. The Elements of Statistical Learning by T. Hastie, R. Tibshirani, and J. Friedman, Springer.
+
+3. Probabilistic Graphical Models. Koller, and N. Friedman, MIT Press.
+
+REFERENCES:
+
+1. Bishop, C.M., Pattern Recognition and Machine Learning, Springer, 2006.
+
+2. Yegnanarayana, B., Artificial Neural Networks PHI Learning Pvt. Ltd, 2009.
+
+3. Golub, G.H., and Van Loan, C.F., Matrix Computations, JHU Press, 2013.
+
+4. Satish Kumar, Neural Networks: A Classroom Approach, Tata McGraw Hill Education, 2004.
+
+EXTENSIVE READING:
+
+1. http://www.deeplearning.net
+
+2. https://www.deeplearningbook.org/
+
+3. https://developers.google.com/machine-learning/crash-course/ml-intro
+
+4. www.cs.toronto.edu/~fritz/absps/imagenet.pdf
+
+5. http://neuralnetworksanddeeplearning.com/
+
